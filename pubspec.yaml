@@ -1,0 +1,36 @@
+name: assignment_8club
+description: "Flutter Internship Assignmet by 8 Club"
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+  lucide_icons_flutter: ^3.1.5
+  dio: ^5.9.0
+  get_it: ^9.0.5
+  pretty_dio_logger: ^1.4.0
+  flutter_bloc: ^9.1.1
+  permission_handler: ^12.0.1
+  camera: ^0.11.2+1
+  path_provider: ^2.1.5
+  image_picker: ^1.2.0
+  video_player: ^2.10.0
+  video_thumbnail: ^0.5.6
+  equatable: ^2.0.7
+  record: ^6.1.2
+  audio_waveforms: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
